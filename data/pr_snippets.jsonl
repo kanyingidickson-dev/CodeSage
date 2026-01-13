@@ -1,0 +1,3 @@
+{"id": "doc1", "code": "def fast_math(x): return x ** 2"}
+{"id": "doc2", "code": "def check_pass(p): return p == 'admin123'"}
+{"id": "doc3", "code": "class User:\n def __init__(self, n): self.n = n"}

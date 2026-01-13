@@ -1,0 +1,3 @@
+{"doc_id": "doc1", "feedback": "Consider checking for overflow if x is large.", "severity": "minor"}
+{"doc_id": "doc2", "feedback": "Hardcoded password detected. Critical security issue.", "severity": "critical"}
+{"doc_id": "doc3", "feedback": "Variable 'n' is ambiguous. Use 'name'.", "severity": "medium"}
