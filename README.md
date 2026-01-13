@@ -13,7 +13,7 @@ CodeSage is an AI-powered code reviewer designed to provide structured, senior-e
 ## Installation & Setup
 
 ```bash
-git clone https://github.com/kanyingidickson-dev/CodeSage.git
+git clone repository
 cd CodeSage
 pip install -r requirements.txt
 ```
@@ -39,7 +39,7 @@ def calc_risk(x, y):
 * **Summary**: Function is simple, consider descriptive parameter names for clarity.
 
 ## Model Governance & Limitations
-See `model_cards/codesage_feedback_model.md` for full details on the model architecture, intended use, and limitations.
+See `[model_cards/codesage_feedback_model.md]`(codesage_feedback_model.md) for full details on the model architecture, intended use, and limitations.
 
 ## License
-Apache License 2.0.
+[Apache License 2.0](LICENSE).
