@@ -39,7 +39,7 @@ def calc_risk(x, y):
 * **Summary**: Function is simple, consider descriptive parameter names for clarity.
 
 ## Model Governance & Limitations
-See `[model_cards/codesage_feedback_model.md]`(codesage_feedback_model.md) for full details on the model architecture, intended use, and limitations.
+See [modelcard](codesage_feedback_model.md) for full details on the model architecture, intended use, and limitations.
 
 ## License
 [Apache License 2.0](LICENSE).
